@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏷️
+lanyard profile readme
+Utilize Lanyard to display your Discord Presence in your GitHub Profile
+
+
+12
+[![Discord Presence](https://my-flask-apptest.herokuapp.com/api/hkeydesign)](https://discord.com/users/12)
+Copy[Please provide a valid user ID!]
